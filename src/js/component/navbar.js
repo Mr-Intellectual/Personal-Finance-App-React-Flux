@@ -28,21 +28,37 @@ export default function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ms-auto text-center ">
-            {/* <Link className="nav-link text-white" to="/todo">
+            {/* Need to add conditional for sign-In
+          <Link className="nav-link text-white" to="/userauth">
               <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
-                Todo-list
-              </p>
-            </Link>
-            <Link className="nav-link text-white" to="/table">
-              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
-                Table
-              </p>
-            </Link>
-            <Link className="nav-link text-white" to="/detials">
-              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
-                Details
+                User 
               </p>
             </Link> */}
+            <Link className="nav-link text-white" to="/dashborad">
+              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
+                Dashborad
+              </p>
+            </Link>
+            <Link className="nav-link text-white" to="/budgeting">
+              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
+                Budgeting
+              </p>
+            </Link>
+            <Link className="nav-link text-white" to="/transactions">
+              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
+                Transactions
+              </p>
+            </Link>
+            <Link className="nav-link text-white" to="/reporting">
+              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
+                Reporting
+              </p>
+            </Link>
+            <Link className="nav-link text-white" to="/settings">
+              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
+                Settings
+              </p>
+            </Link>
           </div>
         </div>
       </div>
