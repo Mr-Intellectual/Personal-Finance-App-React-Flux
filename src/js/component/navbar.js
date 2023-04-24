@@ -28,7 +28,7 @@ export default function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ms-auto text-center ">
-            <Link className="nav-link text-white" to="/todo">
+            {/* <Link className="nav-link text-white" to="/todo">
               <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
                 Todo-list
               </p>
@@ -42,7 +42,7 @@ export default function Navbar() {
               <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
                 Details
               </p>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
