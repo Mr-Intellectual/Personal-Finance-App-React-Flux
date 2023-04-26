@@ -1,0 +1,1071 @@
+[33mcommit 8bbff6e45f00d612f83ae8f6ee66e3422d720d36[m[33m ([m[1;36mHEAD -> [m[1;32mjose[m[33m, [m[1;31morigin/jose[m[33m)[m
+Author: jalbu002 <jalbu002@fiu.edu>
+Date:   Tue Apr 25 18:16:01 2023 +0000
+
+    forms
+
+[33mcommit 03cd52fe6cf444052ac9df5e8ec10a368f27a7ab[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 24 15:55:55 2023 +0000
+
+    Update
+
+[33mcommit 56c16ed548d84d765b19b29c37bb74ee53e55771[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 24 15:24:17 2023 +0000
+
+    Update
+
+[33mcommit eb3bc82cabf976d142d6abebd8d29f5316da0a23[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 24 14:52:54 2023 +0000
+
+    first commit
+
+[33mcommit 075b08c5cefe74657a72274615c2e75f9873a0c1[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 24 04:04:08 2023 +0000
+
+    Update
+
+[33mcommit 177df52da75ae82f6cef366de4438cb8a2fb0bb4[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Sun Apr 23 22:37:55 2023 +0000
+
+    Update
+
+[33mcommit 580831b73a4b5ecc879bf6c857fa20179738db05[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 17 00:19:59 2023 +0000
+
+    Update
+
+[33mcommit 6030eeb864ce8fdffbe1f543c49ed2d7ef22b687[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 17 00:19:00 2023 +0000
+
+    Update
+
+[33mcommit 7ee44393110272bf7c5d8cd2ad3ade9a7b5cb286[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Sun Apr 16 23:22:23 2023 +0000
+
+    Update
+
+[33mcommit b476d66c975f829da7c690cfdb6a161902d03f7d[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Sun Apr 16 23:14:14 2023 +0000
+
+    Update
+
+[33mcommit bcf5e260135ad940dd0254a416a3f7dee4447754[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Sat Apr 15 23:21:58 2023 +0000
+
+    Update
+
+[33mcommit 4d80633908702d2cbafd7b32d6793aab188057c4[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Apr 10 20:54:14 2023 +0000
+
+    Update
+
+[33mcommit 4ed1174175ae71affc3cd1163939f7a9d3d9ec9f[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Sun Apr 9 01:31:15 2023 +0000
+
+    Update
+
+[33mcommit cfc8810246e1ddbd62b0c4537c11475af42a8da0[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Sat Apr 8 02:48:01 2023 +0000
+
+    Update
+
+[33mcommit dc7aa5c4c18fa1bfa8621354abb53fa2b5305080[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Wed Apr 5 22:42:45 2023 +0000
+
+    update
+
+[33mcommit 2f1d2edd3e1454d1773015684a0eafa04caef1ed[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Tue Apr 4 23:46:57 2023 +0000
+
+    Update
+
+[33mcommit a022684d7e5fcd5dd1f1a6c88687682ba381c39b[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Fri Mar 31 23:18:15 2023 +0000
+
+    flux update
+
+[33mcommit 630282de2ac2a514b2c44e5e2b0f23923df53ab9[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Thu Mar 30 18:00:32 2023 +0000
+
+    Updtae
+
+[33mcommit 38ad5406c9fa48f9a749cac69cc9055d14e57958[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Wed Mar 29 22:42:58 2023 +0000
+
+    Fixed flux
+
+[33mcommit eff87f130f76f934c3d30d07f80a410b4c523e80[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Mar 27 23:15:52 2023 +0000
+
+    update
+
+[33mcommit 14dd169d4b3b8c8c0dcb912f02c87f36fb2425f0[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Mon Mar 27 23:13:59 2023 +0000
+
+    Updateed code
+
+[33mcommit ce964d6e3f4aa1c0f6adfe2c2bdf02065d67d035[m
+Merge: 7f91e4c c04b6ab
+Author: Reo Petersen <77365510+Mr-Intellectual@users.noreply.github.com>
+Date:   Fri Mar 24 19:36:56 2023 -0400
+
+    Merge pull request #2 from Mr-Intellectual/jose
+    
+    added todo to views
+
+[33mcommit c04b6ab3e3591f703e9176bef5bbdacf76e4428a[m
+Author: jalbu002 <jalbu002@fiu.edu>
+Date:   Fri Mar 24 23:34:36 2023 +0000
+
+    added todo to views
+
+[33mcommit 7f91e4cf1a919edaef2b26e9ba55c7c88f708fea[m
+Merge: 73220a5 307dd79
+Author: jalbu002 <110986675+jalbu002@users.noreply.github.com>
+Date:   Wed Mar 22 20:13:30 2023 -0400
+
+    Merge pull request #1 from Mr-Intellectual/jose
+    
+    init
+
+[33mcommit 307dd794b80098cd221fb33fd9571a6f4d44d2e1[m
+Author: jalbu002 <jalbu002@fiu.edu>
+Date:   Thu Mar 23 00:10:47 2023 +0000
+
+    init
+
+[33mcommit 73220a5d8f58e586aca527be60e8c6a664fc3b26[m
+Author: Reo Petersen <Reoapetersen@gmail.com>
+Date:   Thu Mar 23 00:04:30 2023 +0000
+
+    Todo list
+
+[33mcommit ae6894454158ce841ef2c53691f68ed7a0647d60[m
+Merge: 2f1c31e 88a6539
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Wed Nov 23 08:29:36 2022 -0400
+
+    Merge pull request #55 from deimianvasquez/master
+    
+    feature updated react 18
+
+[33mcommit 88a6539ea2e4528999e327ffc0b35471bbbd2318[m
+Author: deimianvasquez <deimianvasquez@gmail.com>
+Date:   Wed Nov 23 04:49:50 2022 +0000
+
+    feature updated react 18
+
+[33mcommit 2f1c31ef1db0606cb4d4af7cbadb1fd5e6f108e5[m
+Merge: a0b6760 b8ac895
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Tue Nov 22 06:56:40 2022 -0400
+
+    Merge pull request #51 from deimianvasquez/master
+    
+    [UPDATE] add react router version 6
+
+[33mcommit b8ac8958374f36d225794d51573ecf8b9e31aa82[m
+Author: deimianvasquez <deimianvasquez@gmail.com>
+Date:   Tue Nov 22 00:00:55 2022 +0000
+
+    add react router version 6
+
+[33mcommit a0b67603ab2bc314549b39e076bbe3419e15f60e[m
+Merge: edfbb84 4802c5b
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Dec 10 22:40:16 2021 -0500
+
+    Merge pull request #36 from AbreuY/master
+    
+    Added the js files required for the proper functioning of bootstrap
+
+[33mcommit 4802c5b888bc2f46043eebf3a67f50b67f5c3ad7[m
+Author: AbreuY <yolfran12@gmail.com>
+Date:   Fri Dec 10 21:50:25 2021 -0500
+
+    fix misleading word
+
+[33mcommit 4bd1a4f3bbb75b7b5fac9760b5163a5259c7ad4b[m
+Author: AbreuY <yolfran12@gmail.com>
+Date:   Fri Dec 10 21:42:34 2021 -0500
+
+    Added the js files required for the proper functioning of bootstrap
+
+[33mcommit edfbb84eef4388d74f2766619107bb50095b2fe5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Dec 9 16:53:28 2021 +0000
+
+    removed vercel installation by default
+
+[33mcommit 6f47a28de3f0a9bda1f1c8bc587fee00dbc1f96b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Dec 9 16:51:43 2021 +0000
+
+    updated to node 16
+
+[33mcommit 558502b1436bc3554bebf41e91923451e41df656[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Dec 9 16:31:49 2021 +0000
+
+    upgraded to node v16
+
+[33mcommit 30697b1ea9cf19d8cf5e1cf3d10bb98a7ca725ca[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Nov 11 11:10:26 2021 -0500
+
+    Update .gitpod.yml
+
+[33mcommit 7304a9f2419efbecca6ec7cd0b212baa77be6ccd[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 19:19:22 2021 +0000
+
+    fixed gitpod.yml
+
+[33mcommit 88a31426c82dbd47266ae2bf30cc144782a505d6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 19:15:44 2021 +0000
+
+    python greeting implemented
+
+[33mcommit f41880f2c085bd02940a0f4c20e548438b33a8ab[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 19:15:06 2021 +0000
+
+    python greeing
+
+[33mcommit aa659a8115a51472bfb2f1c168218de80627e9d6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 15:01:17 2021 -0400
+
+    Update package.json
+
+[33mcommit 641bde9858b4476a0aa8ef7dc56d62779b45e79d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 3 18:34:45 2021 -0400
+
+    Update layout.js
+
+[33mcommit 3684bec2d0d823ff0068edf50811f491fb1811e8[m
+Merge: ed1a209 034ee3c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu May 27 14:40:45 2021 -0400
+
+    Merge pull request #29 from 4GeeksAcademy/dependabot/npm_and_yarn/dns-packet-1.3.4
+    
+    Bump dns-packet from 1.3.1 to 1.3.4
+
+[33mcommit ed1a2097d9698b673f3728cbf34b2bb0eeed9637[m
+Merge: b57826f 54a4574
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:39 2021 -0400
+
+    Merge pull request #23 from 4GeeksAcademy/dependabot/npm_and_yarn/elliptic-6.5.4
+    
+    Bump elliptic from 6.5.3 to 6.5.4
+
+[33mcommit 034ee3cccd8422b3cb948967f33471d27067b98e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 26 23:49:38 2021 +0000
+
+    Bump dns-packet from 1.3.1 to 1.3.4
+    
+    Bumps [dns-packet](https://github.com/mafintosh/dns-packet) from 1.3.1 to 1.3.4.
+    - [Release notes](https://github.com/mafintosh/dns-packet/releases)
+    - [Changelog](https://github.com/mafintosh/dns-packet/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/mafintosh/dns-packet/compare/v1.3.1...v1.3.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b57826f2d20e24fb7bba35744029303f9a8eacc6[m
+Merge: 7eda140 1ac7444
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:30 2021 -0400
+
+    Merge pull request #24 from 4GeeksAcademy/dependabot/npm_and_yarn/y18n-4.0.1
+    
+    Bump y18n from 3.2.1 to 4.0.1
+
+[33mcommit 7eda140a0c79a0bf00c65a26d1aa33974c67aebc[m
+Merge: f2c663f e5d6fc8
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:22 2021 -0400
+
+    Merge pull request #25 from 4GeeksAcademy/dependabot/npm_and_yarn/ssri-6.0.2
+    
+    Bump ssri from 6.0.1 to 6.0.2
+
+[33mcommit f2c663f01b77dfc6c7a6c9b62d18374ac38c3908[m
+Merge: a9d067e d639ceb
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:18 2021 -0400
+
+    Merge pull request #26 from 4GeeksAcademy/dependabot/npm_and_yarn/url-parse-1.5.1
+    
+    Bump url-parse from 1.4.7 to 1.5.1
+
+[33mcommit a9d067e1c6d10d619291803f07ba91260501adf3[m
+Merge: 67cc5f5 081009e
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:12 2021 -0400
+
+    Merge pull request #27 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash-4.17.21
+    
+    Bump lodash from 4.17.20 to 4.17.21
+
+[33mcommit 67cc5f5d863780c4a39d156b9337f2d7988ce06c[m
+Merge: fdc12b2 e2d6d95
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:07 2021 -0400
+
+    Merge pull request #28 from 4GeeksAcademy/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+    
+    Bump hosted-git-info from 2.8.8 to 2.8.9
+
+[33mcommit fdc12b249c50ff5a5e664a82d530c78a18b28fd7[m
+Merge: 5586369 287aa9c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:48:52 2021 -0400
+
+    Merge pull request #22 from 4GeeksAcademy/dependabot/npm_and_yarn/ini-1.3.7
+    
+    Bump ini from 1.3.5 to 1.3.7
+
+[33mcommit e2d6d955a2494e6787214f44a36722d40cabaa10[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun May 9 18:06:00 2021 +0000
+
+    Bump hosted-git-info from 2.8.8 to 2.8.9
+    
+    Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8 to 2.8.9.
+    - [Release notes](https://github.com/npm/hosted-git-info/releases)
+    - [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+    - [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.8...v2.8.9)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 081009e4d3118a2902f9d31f0f7c1f638f58c5c1[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 7 20:10:21 2021 +0000
+
+    Bump lodash from 4.17.20 to 4.17.21
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit d639cebc893131fa96ed87011d812532160ef0e1[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu May 6 22:45:31 2021 +0000
+
+    Bump url-parse from 1.4.7 to 1.5.1
+    
+    Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.4.7 to 1.5.1.
+    - [Release notes](https://github.com/unshiftio/url-parse/releases)
+    - [Commits](https://github.com/unshiftio/url-parse/compare/1.4.7...1.5.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e5d6fc8dcc4f9886e360844e8ea25dbd171c23a2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 19 18:13:10 2021 +0000
+
+    Bump ssri from 6.0.1 to 6.0.2
+    
+    Bumps [ssri](https://github.com/npm/ssri) from 6.0.1 to 6.0.2.
+    - [Release notes](https://github.com/npm/ssri/releases)
+    - [Changelog](https://github.com/npm/ssri/blob/v6.0.2/CHANGELOG.md)
+    - [Commits](https://github.com/npm/ssri/compare/v6.0.1...v6.0.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1ac7444a2b747d673f0683f2f5f92253944a1635[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 30 15:11:16 2021 +0000
+
+    Bump y18n from 3.2.1 to 4.0.1
+    
+    Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 4.0.1.
+    - [Release notes](https://github.com/yargs/y18n/releases)
+    - [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/yargs/y18n/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 54a45741bf865513e387a8cf2db6226f056a1f00[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 8 22:26:52 2021 +0000
+
+    Bump elliptic from 6.5.3 to 6.5.4
+    
+    Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+    - [Release notes](https://github.com/indutny/elliptic/releases)
+    - [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 287aa9cda8fa611cdd188e47c3a44fd5fed0c9cb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Dec 10 23:19:37 2020 +0000
+
+    Bump ini from 1.3.5 to 1.3.7
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.7.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.7)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 5586369c26f9e88d6253332e8a792226bf169f6f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Nov 6 12:32:03 2020 -0500
+
+    Update layout.js
+
+[33mcommit e70ac9aafa00605496dd9d8aa350d67cf62c5ea3[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 15:38:30 2020 +0000
+
+    changed images on the readme to local folder to avoid 404 in the future
+
+[33mcommit 4b530ba091a981d3916cc6e960e370decaf2e234[m
+Merge: 468506a bce53ab
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 15:19:04 2020 +0000
+
+    switched to vercel instad of now, added more thorough docs
+
+[33mcommit 468506aa4158f7669861c6ef624c3813556540fd[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 15:00:11 2020 +0000
+
+    regenerator runtime
+
+[33mcommit bce53ab03187f6a4d969c17760a75cdb5409c7f9[m
+Merge: 48e5e81 1197140
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:32 2020 -0400
+
+    Merge pull request #18 from 4GeeksAcademy/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+    
+    Bump websocket-extensions from 0.1.3 to 0.1.4
+
+[33mcommit 48e5e8128b6ffddcb0fcd3f504710c3150ec860f[m
+Merge: 60c0a06 bf5059d
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:22 2020 -0400
+
+    Merge pull request #19 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+[33mcommit 60c0a066b7b8794f0255741311eade8fc5e42df9[m
+Merge: 5e34901 44a6ebd
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:12 2020 -0400
+
+    Merge pull request #20 from 4GeeksAcademy/dependabot/npm_and_yarn/elliptic-6.5.3
+    
+    Bump elliptic from 6.5.2 to 6.5.3
+
+[33mcommit 5e34901ef6588469e4a30a97b070744a1a2d864f[m
+Merge: cbed49a 0c5de5d
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:01 2020 -0400
+
+    Merge pull request #21 from 4GeeksAcademy/dependabot/npm_and_yarn/http-proxy-1.18.1
+    
+    Bump http-proxy from 1.17.0 to 1.18.1
+
+[33mcommit cbed49adbe81f0ef6bec48db343d8e60adddd9a1[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:52:06 2020 -0400
+
+    Update package.json
+
+[33mcommit addee48e5b001bdb28a6c64433fb5555771fb5e0[m
+Author: Paolo Lucano <44124290+plucodev@users.noreply.github.com>
+Date:   Wed Oct 21 17:33:36 2020 -0400
+
+    Update single.js
+
+[33mcommit 0ee8287f4c1748ddd718864856a4e6ef95729cc9[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 11 11:16:39 2020 -0400
+
+    Added bundle.js rout
+    
+    If the deployed URL had subdirectories if was imposible to find the bundle, not its going to be fine because we harcoded the bundle import to the ROOT
+
+[33mcommit 0c5de5d9cb5ce6f8ba27965efa9c06edb74c8d15[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Sep 6 14:10:48 2020 +0000
+
+    Bump http-proxy from 1.17.0 to 1.18.1
+    
+    Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.17.0 to 1.18.1.
+    - [Release notes](https://github.com/http-party/node-http-proxy/releases)
+    - [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/http-party/node-http-proxy/compare/1.17.0...1.18.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 44a6ebd6d68f5d6a4fd60e54b7b82a79af67eca3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 30 08:25:44 2020 +0000
+
+    Bump elliptic from 6.5.2 to 6.5.3
+    
+    Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.2 to 6.5.3.
+    - [Release notes](https://github.com/indutny/elliptic/releases)
+    - [Commits](https://github.com/indutny/elliptic/compare/v6.5.2...v6.5.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bf5059ddd6de9fe1c13936e224a9e5a0d990c07d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 11:22:25 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 466f84dc1eab8ef68f98f0ffd49e7ce21ae48e4d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Jul 9 14:29:00 2020 -0400
+
+    Update layout.js
+
+[33mcommit 2d244a4d4b8ff60ebfafdb4ce30354f6fed8cf98[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Jul 7 20:02:16 2020 +0000
+
+    added changelog
+
+[33mcommit b331e75089cfb6a370fd07d59ba8704d1b996fe3[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Jul 7 19:59:40 2020 +0000
+
+    updated react router
+
+[33mcommit 0fb073398a6fa4941d4b611170cb93629a4d51bf[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Jul 3 23:24:25 2020 -0400
+
+    Update README.md
+
+[33mcommit 79634a214d4f08fde072a0eaa4469d6a2d26e0d7[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Jul 3 23:22:12 2020 -0400
+
+    Add files via upload
+
+[33mcommit 1197140c333bb0926ab27c90cb376619749cb171[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Jun 6 12:20:00 2020 +0000
+
+    Bump websocket-extensions from 0.1.3 to 0.1.4
+    
+    Bumps [websocket-extensions](https://github.com/faye/websocket-extensions-node) from 0.1.3 to 0.1.4.
+    - [Release notes](https://github.com/faye/websocket-extensions-node/releases)
+    - [Changelog](https://github.com/faye/websocket-extensions-node/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/faye/websocket-extensions-node/compare/0.1.3...0.1.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2b58de7290563f3d5d0bccf056769740cb3485c5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Apr 2 20:07:35 2020 -0400
+
+    Create now.json
+
+[33mcommit a4398113496991a6b79bd932b0dbdaffa186c7c2[m
+Merge: 83e25aa 44cee28
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Mar 31 00:19:20 2020 -0400
+
+    Merge pull request #17 from hernanjkd/patch-1
+    
+    Update layout.js
+
+[33mcommit 44cee28f8dadd2e5140cd445ecb1dd2f38a7701c[m
+Author: Hernán García <hernanjkd@gmail.com>
+Date:   Fri Mar 27 19:23:39 2020 -0400
+
+    Update layout.js
+
+[33mcommit 83e25aa5ed6723231f641073c83fcd17a899bcdb[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Mar 17 06:26:00 2020 +0000
+
+    test completed
+
+[33mcommit 46f9ecf9a10fc07d26ad05b4676425b2a59c5e05[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Mar 17 06:20:14 2020 +0000
+
+    added zeit, added safe more for .env
+
+[33mcommit 00ec786542436c9483dd1786784551213939f571[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Mar 17 02:00:02 2020 -0400
+
+    Update .env.example
+
+[33mcommit 37ff38e9228bec921d5efce7003d9ac05e6d4cfa[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Mar 17 01:59:40 2020 -0400
+
+    Delete .env
+
+[33mcommit 3e6e7b7ebfd003121f277953f981e23d7781a51d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Feb 26 18:50:45 2020 -0500
+
+    Create .env.example
+
+[33mcommit c3eddfd2556875f648a0cd9f30139c2eb47d6f03[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Feb 26 18:49:59 2020 -0500
+
+    Update webpack.prod.js
+
+[33mcommit b7fcb8e4b4296e49590f241a0d9e349b4cd0a83c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Feb 21 14:18:51 2020 -0500
+
+    Update package.json
+
+[33mcommit 9c45b285d40b419f872c25efb6d4201f17fd7fe4[m
+Merge: 1bfff60 d16927c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Dec 10 10:47:44 2019 -0500
+
+    Merge pull request #16 from hernanjkd/master
+    
+    Update appContext.js
+
+[33mcommit d16927c2cd27f5b8e293000147db066e4eeb2d87[m
+Author: Hernán García <hernanjkd@gmail.com>
+Date:   Fri Dec 6 16:03:55 2019 -0500
+
+    Update appContext.js
+
+[33mcommit 1bfff604220ffa5b032ead72baec728f346fba42[m
+Merge: 6e70b47 17c3b85
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Nov 5 18:14:30 2019 -0500
+
+    Merge pull request #15 from ColbyWTaylor/patch-1
+    
+    remove c9 reference, update w/ lesson link
+
+[33mcommit 17c3b850302e5db97b1df54510c14bd133831a19[m
+Author: ColbyWTaylor <colbyt.093@gmail.com>
+Date:   Mon Nov 4 14:49:05 2019 -0500
+
+    remove c9 reference, update w/ lesson link
+
+[33mcommit 6e70b47689c21820ab5638c87f064643198f39e6[m
+Merge: 8256751 f6bc04e
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Oct 31 18:05:15 2019 -0400
+
+    Merge pull request #14 from nachovz/patch-2
+    
+    Typo, missing actions
+
+[33mcommit f6bc04ebd778e645f2ec521ce5cf53d11c8b2f33[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Mon Oct 28 20:38:26 2019 -0400
+
+    Update appContext.js
+
+[33mcommit 82567510554df894161d1a127187a079a48e3e7a[m
+Merge: 101555d a91b873
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 18 21:50:00 2019 -0400
+
+    Merge pull request #12 from plucodev/master
+    
+    Updated appContext and added useContext Hook
+
+[33mcommit a91b873ebe4f3c0150c0b9ce287a7b145c133a49[m
+Author: Paolo Lucano <paololucanodeveloper@gmail.com>
+Date:   Fri Oct 18 23:09:57 2019 +0000
+
+    Updated appContext and added useContext Hook
+
+[33mcommit 101555d34f7b4a566a2447ed0ba60be32cb99f7c[m
+Merge: b064d05 24953cf
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Oct 10 14:11:14 2019 -0400
+
+    Merge pull request #11 from nachovz/patch-1
+    
+    Typo store->flux
+
+[33mcommit 24953cf45ef380e626b81ed9aa538038482b377a[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Wed Oct 9 19:12:12 2019 -0400
+
+    Typo store->flux
+
+[33mcommit b064d052425cdc04ae95dbfaf15043cec62d64d0[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Oct 8 14:36:47 2019 +0000
+
+    updated home to  functional component
+
+[33mcommit 8c15e1a62d7b8ad4ab6b41655a6cb1497b9790f8[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Oct 8 10:00:41 2019 -0400
+
+    Update appContext.js
+
+[33mcommit 8d0d34dfb7347ed854ff1112afeb8030263e6e71[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Oct 8 09:59:17 2019 -0400
+
+    Update flux.js
+
+[33mcommit 62b450c70c7f781c587b31176c16e786f74e4ae0[m
+Merge: c8a3710 ac2ed62
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Oct 1 13:37:26 2019 -0400
+
+    Merge pull request #10 from timrodz/update_readme
+    
+    Update README to reflect changes regarding hooks
+
+[33mcommit ac2ed62e661f0fb51831dcc3010f3a8d9c8da0c1[m
+Author: Juan Alejandro Morais <timrodz@users.noreply.github.com>
+Date:   Tue Oct 1 23:01:24 2019 +1300
+
+    Update README to reflect changes regarding hooks
+    
+    Issue: https://github.com/4GeeksAcademy/react-hello-webapp/issues/9
+
+[33mcommit c8a37104c680e7fe112231f41a00a9ac62d776a6[m
+Merge: e4d6899 34a02be
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 27 15:41:14 2019 -0400
+
+    Merge pull request #8 from jferragut/master
+    
+    Hooks Updates and Vulnerabilities patched
+
+[33mcommit 34a02bef91e51f6fea59efe2384000f15ffb6ce0[m
+Author: jferragut <31458614+jferragut@users.noreply.github.com>
+Date:   Fri Sep 27 15:08:40 2019 -0400
+
+    switched store to use State hook
+
+[33mcommit d7393f6925219d6fc3fb44a96379c34d27a2ba11[m
+Author: jferragut <31458614+jferragut@users.noreply.github.com>
+Date:   Fri Sep 27 13:38:07 2019 -0400
+
+    improve context destructuring and usage
+
+[33mcommit 2c77579f643def2707df50079748222c950978c9[m
+Author: jferragut <31458614+jferragut@users.noreply.github.com>
+Date:   Fri Sep 27 13:36:15 2019 -0400
+
+    convert single to function
+
+[33mcommit 22d0fd7f1d52215a5bbd9c1f5704a9b35450860a[m
+Author: jferragut <31458614+jferragut@users.noreply.github.com>
+Date:   Fri Sep 27 13:33:38 2019 -0400
+
+    convert demo to function, add conditional render
+
+[33mcommit 79f68e4b739082e24752b7c6df3c40380f4e6df3[m
+Author: jferragut <31458614+jferragut@users.noreply.github.com>
+Date:   Fri Sep 27 13:00:20 2019 -0400
+
+    fix vulnerabilities and update layout comp
+
+[33mcommit e4d689912cfb24aae6bcb9ca34e3cdf4a6834650[m
+Merge: 06ec420 ab9051f
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 20 14:31:21 2019 -0400
+
+    Merge pull request #7 from ljavierrodriguez/master
+    
+    Call Actions in another action
+
+[33mcommit ab9051f6bfdbb8a8deb5f67e96481a51a686a1d4[m
+Author: Luis J. Rodriguez O <ljavierrodriguez@gmail.com>
+Date:   Tue Aug 20 14:09:17 2019 -0400
+
+    Call Actions in another action
+
+[33mcommit 06ec4200c4bb5119a29a022989591d7fd545a5a2[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Aug 3 15:26:14 2019 -0400
+
+    Update .eslintrc
+
+[33mcommit 40c9c0f1617854f497ab44930151f5b909a87298[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Jun 24 11:07:11 2019 -0400
+
+    Update webpack.dev.js
+
+[33mcommit 2c29a069073457d1b9acaa5d9fd1ccc5fd156e33[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Mon May 6 13:12:07 2019 -0400
+
+    Forced indentation sucks in complex render (using context)
+
+[33mcommit f381a757ce8d20a92fb06781df92d7d174aeb46b[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat May 4 13:10:26 2019 -0400
+
+    Update README.md
+
+[33mcommit ff7d8c1cdf1aa718c1c2cb4f7e0631fb7c7b9068[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat May 4 13:00:30 2019 -0400
+
+    Update .gitpod.yml
+
+[33mcommit c66518d396c7764b85e1323349db23b1daf65dfc[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat May 4 12:58:09 2019 -0400
+
+    Por 8080
+
+[33mcommit c42a209366969da9db5fcb1cd3a4abba67ea28c8[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 26 18:54:07 2019 +0000
+
+    publish your project to github ready
+
+[33mcommit 21e12fcd4ba4952f50171fa1b853019058049b49[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 26 18:19:08 2019 +0000
+
+    workspace ready
+
+[33mcommit e2e5e995ee2b875f53a5c68da467cdc83af62bd8[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 26 18:05:09 2019 +0000
+
+    no more public folder
+
+[33mcommit b53a3462167564218734e0d4e13a0dcf311c5c6b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 26 18:04:13 2019 +0000
+
+    no more public folder
+
+[33mcommit a4d4aebf99c8546d226df3a859951bc223d85d2f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 26 17:59:38 2019 +0000
+
+    ready for gitpod
+
+[33mcommit be937dd47af84c96f6a6583a9b3aebe30a5263c6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 26 17:54:44 2019 +0000
+
+    added env variables and updated to latest react
+
+[33mcommit 4a4f66358b0c79ae477b3b5debc0672edfcf7f17[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Apr 15 11:39:43 2019 -0400
+
+    Update layout.jsx
+
+[33mcommit af16e33c21ad9dcfb052fdfa451fab175c93310b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Apr 15 11:39:17 2019 -0400
+
+    Update appContext.jsx
+
+[33mcommit df5e81ae5aece6d0ca973ca7f5dd7e6665c06950[m
+Merge: 898747f ed9137e
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Apr 11 09:29:59 2019 -0400
+
+    Merge pull request #6 from plucodev/layout/import
+    
+    Deleted import Todo in layout.jsx
+
+[33mcommit ed9137efc11af61311632fe21c28cdbc4cabbe35[m
+Author: Paolo Lucano <paololucanodeveloper@gmail.com>
+Date:   Wed Apr 10 19:37:40 2019 +0000
+
+    Deleted import Todo in layout.jsx
+
+[33mcommit 898747facb34807de008e6717f85e2822d969447[m
+Merge: e0a3773 eb2fdb6
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 9 16:27:20 2019 -0400
+
+    Merge pull request #5 from ljavierrodriguez/master
+    
+    Fix Store Flux
+
+[33mcommit eb2fdb6910f0703006f7f1aab713024ab8e6a4d2[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 9 16:26:59 2019 -0400
+
+    Update flux.js
+
+[33mcommit 2dce922db0ff16c5e27014f810d55e384fa577cd[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 9 16:26:41 2019 -0400
+
+    Delete todo.jsx
+
+[33mcommit d10bdb87007b41d53e92ac0c9e9f23a5b1aa87ff[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 9 16:26:28 2019 -0400
+
+    Update layout.jsx
+
+[33mcommit 021291f46216bbfe70e428fb37a27afcc6aa9aab[m
+Author: Luis J. Rodriguez O <ljavierrodriguez@gmail.com>
+Date:   Tue Apr 9 16:22:33 2019 -0400
+
+    Fix Store Flux
+
+[33mcommit e0a377341d84ba01262707636b791f1ade29df9e[m
+Merge: a6b0435 200c97f
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Mar 11 15:16:59 2019 -0400
+
+    Merge pull request #4 from nachovz/master
+    
+    Visual Refreshment and packages vulnerabilities
+
+[33mcommit 200c97f569180a9bbae4f23eccbb768b6b6ce635[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Fri Mar 8 22:21:18 2019 +0000
+
+    Refreshment, visual improvements and modules updates
+
+[33mcommit c1c42385ea7192ddc3a400bee16581a8aea1e347[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Fri Mar 8 21:50:32 2019 +0000
+
+    Fixed vulnerabilities
+
+[33mcommit a6b0435120eae313f2ef7572c4f5898ce3a6173c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Dec 7 00:26:30 2018 +0000
+
+    getStore and setStore
+
+[33mcommit 7bda5cbba46fa23086996459431902ea752a48bd[m
+Merge: 0152ec8 615028a
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Nov 15 22:28:11 2018 +0000
+
+    Merge branch 'master' of https://github.com/4GeeksAcademy/react-hello-webapp
+
+[33mcommit 0152ec892ba5876497d942ad7a9b12ed3cfa6ff0[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Nov 15 22:27:45 2018 +0000
+
+    github labels
+
+[33mcommit 615028aa1b0a85a64b0c3386a2e8c77f9abb345b[m
+Merge: 75b8099 bd9790c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Oct 20 15:32:46 2018 -0400
+
+    Merge pull request #2 from emily-v/master
+    
+    added nvm v8 and npm install commands to readme
+
+[33mcommit bd9790cd9dfc302434c445673435dd9997a9a1a5[m
+Author: Emily Vong <emily.vong25@gmail.com>
+Date:   Fri Oct 19 23:00:23 2018 +0000
+
+    added nvm v8 and npm install commands to readme
+
+[33mcommit 75b809906e8833ab4fc5ef8a9b29e21eb4edb0fd[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat Oct 13 19:39:36 2018 -0400
+
+    Update README.md
+
+[33mcommit 0e750487831fd7143e92aa1aa3ace6de2f8a3536[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat Oct 13 19:39:20 2018 -0400
+
+    Update README.md
+
+[33mcommit 6c20f6de48ad4a9c52cce87474465c0457757dda[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat Oct 13 19:37:20 2018 -0400
+
+    Update README.md
+
+[33mcommit 14af0bb46b8e3ecfcb68caa597492398a5c1b896[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat Oct 13 00:09:35 2018 +0000
+
+    TYpo
+
+[33mcommit ba7853739e63f0c8395da60b6f7821fc54b6acb6[m
+Merge: a6ec892 4d3a587
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat Oct 13 00:06:13 2018 +0000
+
+    Merge branch 'master' of https://github.com/4GeeksAcademy/react-hello-webapp
+
+[33mcommit a6ec892ea240b3b8d6e2acfde35edee327fb602e[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Sat Oct 13 00:04:47 2018 +0000
+
+    Simplifying the demo.
+    Cleaning the visual overload.
+    Added Single view
+
+[33mcommit 4d3a587afe225f9d54f057bdeaa3672f7616c110[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Oct 10 15:13:35 2018 +0000
+
+    prettifier
+
+[33mcommit 1eb80ce497b610fcf5c01ca18707c46b8993df03[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Mon Oct 8 16:10:44 2018 +0000
+
+    Cleaning unnecessary views/components
+    Migrated from react-scripts to custom
+
+[33mcommit a7ebbaae296736ca91203aeb19643972087ce983[m
+Author: Ignacio <nacho@simplyqs-imac.lan>
+Date:   Fri Oct 5 14:03:54 2018 -0400
+
+    Initial commit
