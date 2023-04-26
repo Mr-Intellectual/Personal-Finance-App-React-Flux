@@ -7,7 +7,8 @@ import { Context } from "./store/appContext";
 //Views
 import Home from "./views/home";
 import injectContext from "./store/appContext";
-import UserAuth from "./views/signIn-signUp"
+import SignUp from "./views/signUp"
+import Login from "./views/login"
 import Dashboard from "./views/dashboard"
 import Budgeting from "./views/budgeting"
 import Transactions from "./views/transactions"
@@ -39,7 +40,8 @@ const Layout = () => {
 				<div className="container-xxl hv-100 mt-3" id="content">
 					<Routes>
 						<Route path="/" element={<Home />} />
-						<Route path="/userauth" element={<UserAuth />} />
+						<Route path="/signup" element={<SignUp />} />
+						<Route path="/login" element={<Login />} />
 						<Route path="/dashborad" element={<Dashboard />} />
 						<Route path="/budgeting" element={<Budgeting />} />
 						<Route path="/transactions" element={<Transactions />} />
