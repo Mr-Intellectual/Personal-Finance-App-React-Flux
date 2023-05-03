@@ -1,6 +1,7 @@
 //import react into the bundle
 import React from 'react';
-import { createRoot } from 'react-dom/client'
+// import { createRoot } from 'react-dom/client'
+import ReactDOM from 'react-dom';
 
 
 
@@ -11,14 +12,21 @@ import "../styles/index.css";
 import Layout from './layout.js'
 
 //
-const root = createRoot(document.querySelector("#app"))
+// const root = createRoot(document.querySelector("#app"))
 
 
 
 //render your react application
-root.render(
+// root.render(
 
-    <Layout />
+//     <Layout />
 
-)
+// )
+
+ReactDOM.render(
+    <div className="App">
+      <Layout />
+    </div>,
+    document.getElementById('app')
+  );
 

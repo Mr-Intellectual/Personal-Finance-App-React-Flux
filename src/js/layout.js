@@ -22,8 +22,10 @@ import Todo from "./views/todo";
 //Components
 import Navbar from "./component/navbar";
 import Footer from "./component/footer";
-import Sidebar from "./component/sidebar"
+// import Sidebar from "./component/sidebar"
 import Statusbar from "./component/statusbar";
+import Sidebar2 from "./component/sidebar2";
+import Statusbar2 from "./component/statusbar2";
 
 
 
@@ -39,9 +41,11 @@ const Layout = () => {
 	return (
 		<div className="h-100" id="main" >
 			<BrowserRouter basename={basename}>
-				<Sidebar >
+				{/* <Sidebar > */}
+				<Sidebar2 >
 					<div className="container-xxl hv-100 p-0" id="content">
 						<Statusbar />
+						{/* <Statusbar2 /> */}
 						{/* <Navbar /> */}
 						<Routes>
 							<Route path="/" element={<Home />} />
@@ -59,7 +63,8 @@ const Layout = () => {
 						<Route path="/detials" element={<Detials />} /> */}
 						</Routes>
 					</div>
-				</Sidebar>
+				</Sidebar2>
+				{/* </Sidebar> */}
 				<Footer />
 			</BrowserRouter>
 		</div>
