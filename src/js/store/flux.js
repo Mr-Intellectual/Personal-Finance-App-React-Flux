@@ -25,9 +25,62 @@ const getState = ({ getStore, getActions, setStore }) => {
 
 			],
 			memoHolder: "",
+			sideBarState:[
+				{
+
+				}
+			]
 
 		},
 		actions: {
+
+			toggleLightDark: () => {
+				const html = document.documentElement;
+				const switchInput = document.querySelector(".switch input");
+				const switchLabel = document.querySelector(".switch label");
+				const switchLabelText = switchLabel.querySelector("span:last-child");
+				const lightModeClass = "light-mode";
+				console.log(html.classList)
+				if (localStorage.getItem("dark-mode") === "false") {
+					html.classList.add(lightModeClass);
+					switchInput.checked = false;
+					switchLabelText.textContent = "Light";
+				}
+
+				switchInput.addEventListener("input", function () {
+					html.classList.toggle(lightModeClass);
+					if (html.classList.contains(lightModeClass)) {
+						switchLabelText.textContent = "Light";
+						localStorage.setItem("dark-mode", "false");
+					} else {
+						switchLabelText.textContent = "Dark";
+						localStorage.setItem("dark-mode", "true");
+					}
+				})
+			},
+
+			toggleCollapse: () => {
+				const html = document.documentElement;
+				const body = document.body;
+				const menuLinks = document.querySelectorAll(".admin-menu a");
+				const collapseBtn = document.querySelector(".admin-menu .collapse-btn");
+				const toggleMobileMenu = document.querySelector(".toggle-mob-menu");
+				const switchInput = document.querySelector(".switch input");
+				const switchLabel = document.querySelector(".switch label");
+				const switchLabelText = switchLabel.querySelector("span:last-child");
+				const collapsedClass = "collapsed";
+				const lightModeClass = "light-mode";
+				console.log(switchLabelText)
+				collapseBtn.addEventListener("click", function () {
+					body.classList.toggle(collapsedClass);
+					this.getAttribute("aria-expanded") == "true"
+					  ? this.setAttribute("aria-expanded", "false")
+					  : this.setAttribute("aria-expanded", "true");
+					this.getAttribute("aria-label") == "collapse menu"
+					  ? this.setAttribute("aria-label", "expand menu")
+					  : this.setAttribute("aria-label", "collapse menu");
+				  })
+			},
 
 
 			// Use getActions to call a function within a fuction
@@ -140,28 +193,28 @@ const getState = ({ getStore, getActions, setStore }) => {
 				return newRanInfo;
 			},
 
-			fetchData: () => {
-				let ranInt = Math.floor(Math.random() * 21) + 95;
-				const url = 'https://api.allorigins.win/get?url=' + encodeURIComponent('https://asdfast.beobit.net/api/?type=word&length=' + ranInt + '&startLorem=true');
-				return new Promise((resolve, reject) => {
-					// Time control nod to spam the api
-					setTimeout(() => {
-						fetch(url)
-							.then(response => response.json())
-							.then(data => {
-								const parsedJson = JSON.parse(data.contents);
+			// fetchData: () => {
+			// 	let ranInt = Math.floor(Math.random() * 21) + 95;
+			// 	const url = 'https://api.allorigins.win/get?url=' + encodeURIComponent('https://asdfast.beobit.net/api/?type=word&length=' + ranInt + '&startLorem=true');
+			// 	return new Promise((resolve, reject) => {
+			// 		// Time control nod to spam the api
+			// 		setTimeout(() => {
+			// 			fetch(url)
+			// 				.then(response => response.json())
+			// 				.then(data => {
+			// 					const parsedJson = JSON.parse(data.contents);
 
-								setStore({ memoHolder: parsedJson.text });
-								resolve(parsedJson.text);
-							})
-							.catch(error => {
-								console.error(error);
-								reject(error);
-							});
-					}, 100); // 1 second delay
+			// 					setStore({ memoHolder: parsedJson.text });
+			// 					resolve(parsedJson.text);
+			// 				})
+			// 				.catch(error => {
+			// 					console.error(error);
+			// 					reject(error);
+			// 				});
+			// 		}, 100); // 1 second delay
 
-				});
-			},
+			// 	});
+			// },
 
 			ranClick: (e) => {
 				const store = getStore();
@@ -184,19 +237,19 @@ const getState = ({ getStore, getActions, setStore }) => {
 				}
 			},
 
-			reFatch: () => {
-				const store = getStore();
-				const actions = getActions();
+			// reFatch: () => {
+			// 	const store = getStore();
+			// 	const actions = getActions();
 
-				store.list.forEach(async (item, index) => {
-					if (item["Memo"] === "Waiting") {
-						await actions.fetchData();
-						item["Memo"] = store.memoHolder
-					}
-				});
+			// 	store.list.forEach(async (item, index) => {
+			// 		if (item["Memo"] === "Waiting") {
+			// 			await actions.fetchData();
+			// 			item["Memo"] = store.memoHolder
+			// 		}
+			// 	});
 
 
-			},
+			// },
 
 			switchStatusButton: (e) => {
 				let status = document.querySelectorAll(".badge")

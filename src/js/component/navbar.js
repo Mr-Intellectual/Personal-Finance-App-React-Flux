@@ -10,10 +10,8 @@ export default function Navbar() {
 
     <nav className="navbar navbar-expand-lg bg-black">
       <div className="container">
-
         <Link to="/">
           <div className="navbar-brand text-white fs-3" >Home</div>
-
         </Link>
         <button
           className="navbar-toggler "
@@ -34,7 +32,7 @@ export default function Navbar() {
                 User 
               </p>
             </Link> */}
-            <Link className="nav-link text-white" to="/dashborad">
+            <Link className="nav-link text-white" to="/dashboard">
               <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
                 Dashborad
               </p>

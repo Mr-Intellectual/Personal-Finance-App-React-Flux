@@ -22,6 +22,9 @@ import Todo from "./views/todo";
 //Components
 import Navbar from "./component/navbar";
 import Footer from "./component/footer";
+import Sidebar from "./component/sidebar"
+import Statusbar from "./component/statusbar";
+
 
 
 //create your first component
@@ -34,26 +37,29 @@ const Layout = () => {
 
 
 	return (
-		<div onClick={(e) => actions.ranClick(e)} id="main" >
+		<div className="h-100" id="main" >
 			<BrowserRouter basename={basename}>
-				<Navbar />
-				<div className="container-xxl hv-100 mt-3" id="content">
-					<Routes>
-						<Route path="/" element={<Home />} />
-						<Route path="/signup" element={<SignUp />} />
-						<Route path="/login" element={<Login />} />
-						<Route path="/dashborad" element={<Dashboard />} />
-						<Route path="/budgeting" element={<Budgeting />} />
-						<Route path="/transactions" element={<Transactions />} />
-						<Route path="/reporting" element={<Reporting />} />
-						<Route path="/settings" element={<Settings />} />
-						<Route path="*" element={<h1>Not found!</h1>} />
+				<Sidebar >
+					<div className="container-xxl hv-100 p-0" id="content">
+						<Statusbar />
+						{/* <Navbar /> */}
+						<Routes>
+							<Route path="/" element={<Home />} />
+							<Route path="/signup" element={<SignUp />} />
+							<Route path="/login" element={<Login />} />
+							<Route path="/dashboard" element={<Dashboard />} />
+							<Route path="/budgeting" element={<Budgeting />} />
+							<Route path="/transactions" element={<Transactions />} />
+							<Route path="/reporting" element={<Reporting />} />
+							<Route path="/settings" element={<Settings />} />
+							<Route path="*" element={<h1>Not found!</h1>} />
 
-						{/* <Route path="/todo" element={<Todo />} />
+							{/* <Route path="/todo" element={<Todo />} />
 						<Route path="/table" element={<Table />} />
 						<Route path="/detials" element={<Detials />} /> */}
-					</Routes>
-				</div>
+						</Routes>
+					</div>
+				</Sidebar>
 				<Footer />
 			</BrowserRouter>
 		</div>

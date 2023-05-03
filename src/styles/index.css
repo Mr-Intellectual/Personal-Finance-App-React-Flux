@@ -1,6 +1,12 @@
 /* 
     General Styles
 */
+
+/* * {
+  outline: 1px dashed red;
+  min-height: 10px;
+} */
+
 #main {
   min-height: 100vh;
   display: flex;
@@ -8,6 +14,10 @@
   flex-direction: column;
   min-width: 785px;
 }
+
+/* #content{
+  height: 100%;
+} */
 
 .Footer {
   margin-top: auto;
