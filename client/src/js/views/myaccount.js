@@ -11,9 +11,9 @@ export default function Myaccount() {
         //Some html code should go here
         <div className="container d-flex justify-content-center align-items-center my-5" id="">
             <div className="container emp-profile">
-                <div className="col-12 text-end ml-3">
+                {/* <div className="col-12 text-end ml-3">
                     <button type="submit" className="btn btn-primary btn-sm" onClick={() => actions.makeRanDomUser()}>Click</button>
-                </div>
+                </div> */}
                 <form method="post">
                     <div className="row">
                         <div className="col-md-4">

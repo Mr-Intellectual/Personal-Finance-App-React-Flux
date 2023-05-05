@@ -18,9 +18,9 @@ export default function Home() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione magni vel aliquid, natus laudantium a beatae adipisci ab quam soluta pariatur, blanditiis totam corrupti sint suscipit! Dolor nam perferendis voluptatibus.
           {/* {res} */}
         </p>
-        <Link to="/todo">
+        <Link to="/dashboard">
           <button className="btn btn-primary btn-lg float-center mt-5 mb-3" type="button" onClick={() => actions.makeRanDomUser()}>
-            Click Here Start Entering Into The ToDo List
+            Click Here To Go To The Dashboard
           </button>
         </Link>
       </div>

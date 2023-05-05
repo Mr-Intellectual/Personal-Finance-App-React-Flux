@@ -25,7 +25,9 @@ export default function Login() {
 
           <div className="row">
             <div className="col-6">
-              <button type="submit" className="col-7 btn btn-primary btn-sm" >Sign In</button>
+              <Link to="/">
+                <button type="submit" className="col-7 btn btn-primary btn-sm" >Sign In</button>
+              </Link>
             </div>
             <div className="col-6 form-check my-1 p-0">
               <label className="form-check-label" htmlFor="flexCheckDefault">
