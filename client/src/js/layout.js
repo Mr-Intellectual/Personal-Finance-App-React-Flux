@@ -17,17 +17,10 @@ import Settings from "./views/settings"
 import Register from "./views/register";
 import Myaccount from "./views/myaccount";
 
-import Table from "./views/table";
-import Detials from "./views/details";
-import Todo from "./views/todo";
-
 //Components
-import Navbar from "./components/navbar";
 import Footer from "./components/footer";
-// import Sidebar from "./component/sidebar"
-import Statusbar from "./components/statusbar";
 import Sidebar2 from "./components/sidebar2";
-import Statusbar2 from "./components/statusbar2";
+
 
 
 
@@ -46,9 +39,6 @@ const Layout = () => {
 				{/* <Sidebar > */}
 				<Sidebar2 >
 					<div className="container-xxl hv-100 p-0" id="content">
-						{/* <Statusbar /> */}
-						{/* <Statusbar2 /> */}
-						{/* <Navbar /> */}
 						<Routes>
 							<Route path="/" element={<Home />} />
 							<Route path="/signup" element={<SignUp />} />
@@ -62,9 +52,6 @@ const Layout = () => {
 							<Route path="/settings" element={<Settings />} />
 							<Route path="*" element={<h1>Not found!</h1>} />
 
-							{/* <Route path="/todo" element={<Todo />} />
-						<Route path="/table" element={<Table />} />
-						<Route path="/detials" element={<Detials />} /> */}
 						</Routes>
 					</div>
 				</Sidebar2>

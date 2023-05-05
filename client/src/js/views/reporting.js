@@ -17,7 +17,7 @@ export default function Reporting() {
       <div className="mt-5 ">
 
         <div className="my-5 p-5">
- Add
+          Add Charts
         </div>
         <div className="mt-5 py-5 px-4">
 
