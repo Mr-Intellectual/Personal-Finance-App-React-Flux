@@ -48,6 +48,7 @@ export default function Dashboard() {
           <Grid container justifyContent="center"
             alignItems="center" rowSpacing={1} columnSpacing={{ xs: 1, sm: 1, md: 1 }}>
             <Paper
+              elevation={6}
               sx={{
                 p: 1,
                 // margin: 'auto',
@@ -82,6 +83,7 @@ export default function Dashboard() {
 
 
             <Paper
+              elevation={6}
               sx={{
                 p: 1,
                 // margin: 'auto',
@@ -115,6 +117,7 @@ export default function Dashboard() {
             </Paper>
 
             <Paper
+              elevation={6}
               sx={{
                 p: 1,
                 // margin: 'auto',
@@ -148,6 +151,7 @@ export default function Dashboard() {
             </Paper>
 
             <Paper
+              elevation={6}
               sx={{
                 p: 1,
                 // margin: 'auto',

@@ -26,12 +26,6 @@ export default function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ms-auto text-center ">
-            {/* Need to add conditional for sign-In
-          <Link className="nav-link text-white" to="/userauth">
-              <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
-                User 
-              </p>
-            </Link> */}
             <Link className="nav-link text-white" to="/dashboard">
               <p className="fs-6 m-0" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
                 Dashborad
