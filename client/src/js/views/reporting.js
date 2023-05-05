@@ -1,7 +1,7 @@
 import React, { useContext} from "react";
 import { Link } from "react-router-dom";
-import { DataGrid, GridToolbar } from '@mui/x-data-grid';
-import { useDemoData } from '@mui/x-data-grid-generator';
+// import { DataGrid, GridToolbar } from '@mui/x-data-grid';
+// import { useDemoData } from '@mui/x-data-grid-generator';
 import '../../styles/table.css'
 import { Context } from "../store/appContext";
 
