@@ -14,18 +14,20 @@ import Budgeting from "./views/budgeting"
 import Transactions from "./views/transactions"
 import Reporting from "./views/reporting"
 import Settings from "./views/settings"
+import Register from "./views/register";
+import Myaccount from "./views/myaccount";
 
 import Table from "./views/table";
 import Detials from "./views/details";
 import Todo from "./views/todo";
 
 //Components
-import Navbar from "./component/navbar";
-import Footer from "./component/footer";
+import Navbar from "./components/navbar";
+import Footer from "./components/footer";
 // import Sidebar from "./component/sidebar"
-import Statusbar from "./component/statusbar";
-import Sidebar2 from "./component/sidebar2";
-import Statusbar2 from "./component/statusbar2";
+import Statusbar from "./components/statusbar";
+import Sidebar2 from "./components/sidebar2";
+import Statusbar2 from "./components/statusbar2";
 
 
 
@@ -50,7 +52,9 @@ const Layout = () => {
 						<Routes>
 							<Route path="/" element={<Home />} />
 							<Route path="/signup" element={<SignUp />} />
+							<Route path="account" element={<Myaccount />} />
 							<Route path="/login" element={<Login />} />
+							<Route path="/register" element={<Register />} />
 							<Route path="/dashboard" element={<Dashboard />} />
 							<Route path="/budgeting" element={<Budgeting />} />
 							{/* <Route path="/transactions" element={<Transactions />} /> */}
@@ -64,8 +68,8 @@ const Layout = () => {
 						</Routes>
 					</div>
 				</Sidebar2>
+					<Footer />
 				{/* </Sidebar> */}
-				<Footer />
 			</BrowserRouter>
 		</div>
 	);

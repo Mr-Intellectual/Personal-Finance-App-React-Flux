@@ -16,7 +16,7 @@ import '../../styles/sidebar.css'
 
 
 import { Context } from "../store/appContext";
-import Chart from "../component/charts";
+import Chart from "../components/charts";
 import { Typography } from "@mui/material";
 
 
@@ -29,20 +29,21 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 
+
 export default function Dashboard() {
   const { store, actions } = useContext(Context);
 
   return (
     //Some html code should go here
-    <div className="my-5" id="">
+    <div className="my-5" >
 
 
 
 
-      <Box sx={{ flexGrow: 1, p:1, mb:0 }}>
+      <Box sx={{ flexGrow: 1, p: 1, mb: 0 }}>
         <Grid container justifyContent="flex-start"
           alignItems="stretch" rowSpacing={2} columnSpacing={{ xs: 1, sm: 1, md: 1 }}>
-         
+
           {/* For four boxes */}
           <Grid container justifyContent="center"
             alignItems="center" rowSpacing={1} columnSpacing={{ xs: 1, sm: 1, md: 1 }}>
@@ -50,8 +51,8 @@ export default function Dashboard() {
               sx={{
                 p: 1,
                 // margin: 'auto',
-                mx:4,
-                my:4,
+                mx: 4,
+                my: 4,
                 maxWidth: 225,
                 minHeight: 175,
                 flexGrow: 1,
@@ -73,7 +74,7 @@ export default function Dashboard() {
                 </Grid>
                 <Grid item sx={{ my: 0, py: 0 }}>
                   <Typography sx={{ fontSize: "18px" }} pl={1}>
-                    $2,505
+                    $ {(store.user[0]["transfers"][0]["Cards"]["amount"].toLocaleString())}
                   </Typography>
                 </Grid>
               </Grid>
@@ -84,8 +85,8 @@ export default function Dashboard() {
               sx={{
                 p: 1,
                 // margin: 'auto',
-                mx:4,
-                my:4,
+                mx: 4,
+                my: 4,
                 maxWidth: 225,
                 minHeight: 175,
                 flexGrow: 1,
@@ -107,7 +108,7 @@ export default function Dashboard() {
                 </Grid>
                 <Grid item sx={{ my: 0, py: 0 }}>
                   <Typography sx={{ fontSize: "18px" }} pl={1}>
-                    $1,505
+                    $ {(store.user[0]["transfers"][0]["Accounts"]["amount"].toLocaleString())}
                   </Typography>
                 </Grid>
               </Grid>
@@ -117,8 +118,8 @@ export default function Dashboard() {
               sx={{
                 p: 1,
                 // margin: 'auto',
-                mx:4,
-                my:4,
+                mx: 4,
+                my: 4,
                 maxWidth: 225,
                 minHeight: 175,
                 flexGrow: 1,
@@ -138,11 +139,11 @@ export default function Dashboard() {
                     Transfers to Same Banks
                   </Typography>
                 </Grid>
-              <Grid item sx={{ my: 0, py: 0 }}>
-                <Typography sx={{ fontSize: "18px" }} pl={1}>
-                  $1,905
-                </Typography>
-              </Grid>
+                <Grid item sx={{ my: 0, py: 0 }}>
+                  <Typography sx={{ fontSize: "18px" }} pl={1}>
+                    $ {(store.user[0]["transfers"][0]["Same Banks"]["amount"].toLocaleString())}
+                  </Typography>
+                </Grid>
               </Grid>
             </Paper>
 
@@ -150,8 +151,8 @@ export default function Dashboard() {
               sx={{
                 p: 1,
                 // margin: 'auto',
-                mx:4,
-                my:4,
+                mx: 4,
+                my: 4,
                 maxWidth: 225,
                 minHeight: 175,
                 flexGrow: 1,
@@ -160,7 +161,7 @@ export default function Dashboard() {
               }}
             >
               <Grid item alignItems="center" justifyContent="center" p={1}>
-              <Grid sx={{ width: '85%', mb: 1, p: 0, display: 'inline-flex' }}>
+                <Grid sx={{ width: '85%', mb: 1, p: 0, display: 'inline-flex' }}>
                   <MoveDownIcon sx={{ fontSize: "38px" }} />
                 </Grid>
                 <Grid item sx={{ width: '15%', mb: 1, p: 0, display: 'inline-flex' }}>
@@ -168,14 +169,14 @@ export default function Dashboard() {
                 </Grid>
                 <Grid item sx={{ my: 1, py: 1 }}>
                   <Typography sx={{ fontSize: "14px" }}>
-                  Transfers to Other Banks
+                    Transfers to Other Banks
                   </Typography>
                 </Grid>
                 <Grid item sx={{ my: 0, py: 0 }}>
-                <Typography sx={{ fontSize: "18px" }} pl={1}>
-                  $1,905
-                </Typography>
-              </Grid>
+                  <Typography sx={{ fontSize: "18px" }} pl={1}>
+                    $ {(store.user[0]["transfers"][0]["Other Banks"]["amount"].toLocaleString())}
+                  </Typography>
+                </Grid>
               </Grid>
 
 
