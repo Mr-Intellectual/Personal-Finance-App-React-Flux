@@ -27,7 +27,9 @@ export default function Register() {
                         <input type="password" className="form-control" id="exampleInputPassword1" />
                     </div>
                     <div className="text-center mt-4">
-                        <button type="submit" className="col btn btn-primary btn-sm">Sign Up</button>
+                    <Link to="/account">
+                        <button type="submit" className="col btn btn-primary btn-sm" onClick={() => actions.makeRanDomUser()}>Sign Up</button>
+                    </Link>
                     </div>
                 </form>
             </div>

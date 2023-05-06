@@ -313,11 +313,11 @@ const getState = ({ getStore, getActions, setStore }) => {
 
 				const path = (document.location.pathname.replace("/", "").replace(/^\w/, c => c.toUpperCase()));
 
-				console.log(store);
-				console.log(store["currentPage"]);
+				// console.log(store);
+				// console.log(store["currentPage"]);
 				setStore({ "currentPage": path });
-				console.log(store["currentPage"]);
-				console.log(store);
+				// console.log(store["currentPage"]);
+				// console.log(store);
 			},
 
 			getRandomDate: () => {
